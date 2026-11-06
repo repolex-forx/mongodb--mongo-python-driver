@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mongodb/mongo-python-driver/commit/039144e9ef92f473cb92ae7838c718521b077b0c",
       "git:hexsha": "039144e9ef92f473cb92ae7838c718521b077b0c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T07:37:32.657132+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mongodb/mongo-python-driver/commit/cc9ae51b46d4672ed12e2e56eaacc03c292b9efd",
